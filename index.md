@@ -6,14 +6,15 @@
 ---
 
 ## Computer Science/Coding
-[Project 3 Title](google.com/)
+
+[Test2](/sample_page)
 <img src=""/>
 
 ---
 
 ## Economics
 
-[About Me](/sample_page)
+[Test3](/sample_page)
 <img src=""/>
 
 
