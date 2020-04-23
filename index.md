@@ -1,6 +1,5 @@
-### Math
+## Math
 
----
 [About Me](/sample_page)
 <img src=""/>
 
@@ -14,7 +13,7 @@
 
 ---
 
-### Economics
+## Economics
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
