@@ -1,7 +1,10 @@
 title: Anmol Maini # your name (or website title) here
 logo: "/images/IMG_7650.JPG" # your photo (or logo) here
 description:  # your text below (remove <br> elements if you don't need line breaks)
-  Rising Senior @ MIT majoring in Mathematical Economics
+  Rising Senior @ MIT 
+  <br><br> 
+  Bs in Mathematical Economics
+  <br><br>
   <a href="https://www.linkedin.com/in/mainianmol/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
