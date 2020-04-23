@@ -1,8 +1,8 @@
-### Category Name 1 
+### Math
 
 ---
 [About Me](/sample_page)
-<img src="images/IMG_0275.jpg"/>
+<img src=""/>
 
 ---
 [Set](/pdf/sample_presentation.pdf)
@@ -14,7 +14,7 @@
 
 ---
 
-### Category Name 2
+### Economics
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
