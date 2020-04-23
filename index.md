@@ -4,7 +4,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[](/pdf/sample_presentation.pdf)
+[s](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
