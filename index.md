@@ -4,10 +4,8 @@
 <img src=""/>
 
 ---
-[Set](/pdf/sample_presentation.pdf)
-<img src=""/>
 
----
+## Computer Science/Coding
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -16,10 +14,6 @@
 ## Economics
 
 [About Me](/sample_page)
-<img src=""/>
-
----
-[Set](/pdf/sample_presentation.pdf)
 <img src=""/>
 
 
