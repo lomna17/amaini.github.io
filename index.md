@@ -1,7 +1,7 @@
 ### Category Name 1 
 
 [About Me](/sample_page)
-<img src="images/IMG_0275.jpg/>
+<img src="images/IMG_0275.jpg"/>
 
 ---
 [s](/pdf/sample_presentation.pdf)
