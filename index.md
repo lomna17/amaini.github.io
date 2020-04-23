@@ -4,7 +4,7 @@
 <img src="images/IMG_0275.jpg"/>
 
 ---
-[s](/pdf/sample_presentation.pdf)
+[set](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
