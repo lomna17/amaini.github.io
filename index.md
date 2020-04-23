@@ -1,10 +1,11 @@
 ### Category Name 1 
 
+---
 [About Me](/sample_page)
 <img src="images/IMG_0275.jpg"/>
 
 ---
-[set](/pdf/sample_presentation.pdf)
+[Set](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
