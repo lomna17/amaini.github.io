@@ -11,14 +11,14 @@ To begin, the song is written in B minor. Minor key makes perfect sense for this
 
 The baseline for measures 9-16 is the exact same as the baseline for measures 1-8. Nothing new there. However, the melody comes in and uses a lot of stepwise motion with some leaps of a 3rd. There’s only one leap that’s greater than a 3rd which is a 4th in measure 12 as the piece dips downwards. 
 
-<img src="images/music_two"/>
+<img src="images/music_two.png"/>
 Next,
 
-<img src="images/music_three"/>
-<img src="images/music_four"/>
+<img src="images/music_three.png"/>
+<img src="images/music_four.png"/>
 
 Lastly, 
 
-<img src="images/music_five"/>
+<img src="images/music_five.png"/>
 
 
