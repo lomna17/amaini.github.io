@@ -20,6 +20,6 @@ Next,
 
 Lastly, 
 
-<img src="images/music_five.png" text-align:"center"/>
+<img src="images/music_five.png"/>
 
 
