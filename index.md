@@ -1,24 +1,4 @@
-## Math
 
-[Test1](/sample_page)
-<img src=""/>
-
----
-
-## Computer Science/Coding
-
-[Test2](/sample_page)
-<img src=""/>
-
----
-
-## Economics
-
-[Test3](/sample_page)
-<img src=""/>
-
-
----
 [Test4](/sample_page)
 <img src=""/>
 
