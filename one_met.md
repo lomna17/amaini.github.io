@@ -20,6 +20,6 @@ Next,
 
 Lastly, 
 
-&nbsp; <img src="images/music_five.png"/>
+&nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
 
 
