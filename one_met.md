@@ -15,6 +15,7 @@ The baseline for measures 9-16 is the exact same as the baseline for measures 1-
 Next,
 
 <img src="images/music_three.png"/>
+
 <img src="images/music_four.png"/>
 
 Lastly, 
