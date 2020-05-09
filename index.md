@@ -1,5 +1,5 @@
 
-[Short Analysis of Introduction for "One" by Metallica](/one_met.md)
+[Short Analysis of Introduction for "One" by Metallica](/one_met)
 
 
 
