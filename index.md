@@ -1,6 +1,6 @@
 
-[Short Analysis of Introduction for One by Metallica](/sample_page)
-<img src=""/>
+[Short Analysis of Introduction for "One" by Metallica](/sample_page)
+
 
 
 
