@@ -1,31 +1,24 @@
-## This can be your internal website page / project page
+## Introduction for One by Metallica
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Today I will be taking a deeper look at the introduction of one of Metallica’s most famous songs “One.” “One” is a very dark and sad song about a man who suffered awful injuries from war and is kept alive in a hospital but wishes to die instead of being left alive. The goal of the introduction is to set the scene for this man as he begins to sing about his pain. If you want more information about the lyrics, they are linked here but this post will focus on the music the song opens with. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+(insert song from youtube)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+To begin, the song is written in B minor. Minor key makes perfect sense for this song since its subject is so dark. The piece begins with a back and forth between the i chord and nondominant seventh chord VI7 except the VI7 chords are missing tonic. The leap from g to f along with the missing tonic creates a feeling of emptiness present in measures 2, 4 and 6. This dichotomy of the VI7 and i broken chord creates a pleasing yet unsettling base introduction to the song. Measure 6 breaks this back and forth between the i and VI7 chord with a III chord which foreshadows a coming change in the music. The low of measure 6 is between g and b which are the lows of the previous measures. The use of a as the low in measure 6 lets the low note take consecutive steps downwards while keeping all other notes the same leading to the abrupt change in the base in measure 8. The change is marked by a switch to 2/4 time signature and then immediately back to 4/4 and a break in the repetition of the low high low med pattern. We have a fast low high low high which creates a strange and short change of pace as the piece goes back to 4/4 and the baseline takes a step back as the melody comes in.
+ 
+<img src="images/music_one"/> 
 
-### 2. Assess assumptions on which statistical inference will be based
+The baseline for measures 9-16 is the exact same as the baseline for measures 1-8. Nothing new there. However, the melody comes in and uses a lot of stepwise motion with some leaps of a 3rd. There’s only one leap that’s greater than a 3rd which is a 4th in measure 12 as the piece dips downwards. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/music_two"/>
+Next,
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/music_three"/>
+<img src="images/music_four"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Lastly, 
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/music_five"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
