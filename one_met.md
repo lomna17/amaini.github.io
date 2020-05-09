@@ -4,7 +4,7 @@ Today I will be taking a deeper look at the introduction of one of Metallica’s
 
 <p style="text-align: center;"
 
-[![Watch the video](http://img.youtube.com/vi/WM8bTdBs-cw/0.jpg)](http://www.youtube.com/watch?v=WM8bTdBs-cw#center "One by Metallica")
+[![Watch the video](http://img.youtube.com/vi/WM8bTdBs-cw/0.jpg#center)](http://www.youtube.com/watch?v=WM8bTdBs-cw "One by Metallica")
 
 </p>
 
