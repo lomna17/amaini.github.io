@@ -2,10 +2,7 @@
 
 Today I will be taking a deeper look at the introduction of one of Metallica’s most famous songs “One.” “One” is a very dark and sad song about a man who suffered awful injuries from war and is kept alive in a hospital but wishes to die instead of being left alive. The goal of the introduction is to set the scene for this man as he begins to sing about his pain. If you want more information about the lyrics, they are linked here but this post will focus on the music the song opens with. 
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=WM8bTdBs-cw">
-</iframe>
-<video width="320" height="240" controls>
+<video width="320" height="240">
   <source src="https://www.youtube.com/watch?v=WM8bTdBs-cw" type=video/mp4>
 </video>
 
