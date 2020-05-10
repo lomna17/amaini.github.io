@@ -10,7 +10,9 @@ To begin, the song is written in B minor. Minor key makes perfect sense for this
 <img src="images/music_one.png"/> 
 
 The baseline for measures 9-16 is the exact same as the baseline for measures 1-8. Nothing new there. However, the melody comes in and uses a lot of stepwise motion with some leaps of a 3rd. There’s only one leap that’s greater than a 3rd which is a 4th in measure 12 as the piece dips downwards. This is super interesting because the baseline loves taking leaps while the melody is filled with passing tones like the commonly used dcb/bcd in measures 10,11,13 and 14. These nonharmonic tones which are also present as neighboring tones such as in measure 12 (ded) create a smooth yet unique melody that's calm but at the same time picks up the pace of the piece.
+
 <img src="images/music_two.png"/>
+
 Next,
 
 <img src="images/music_three.png"/>
