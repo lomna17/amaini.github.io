@@ -23,6 +23,6 @@ some transition word,
 
 Now, 
 
-<img src="images/music_six.png"/>
+&nbsp;<img src="images/music_six.png"/>
 
-<img src="images/music_seven.png"/>
+&nbsp;<img src="images/music_seven.png"/>
