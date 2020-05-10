@@ -25,4 +25,4 @@ Now,
 
 &nbsp;<img src="images/music_six.png"/>
 
-&nbsp;<img src="images/music_seven.png"/>
+&nbsp;<img src="images/music_seven_two.png"/>
