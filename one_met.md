@@ -28,3 +28,5 @@ Lastly, we'll look at measures 34-39 which end off the introduction and lead to 
 &nbsp;<img src="images/music_six.png"/>
 
 &nbsp;<img src="images/music_seven_two.png"/>
+
+Altogether, while I don't feel that the musical "genius" is super in depth in "One," there's a lot to look at and analyze to find out why it sounds so good (well at least to me). 
