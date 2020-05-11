@@ -19,11 +19,11 @@ Next, we look at the last section of what I’d consider the first half of the i
  
 <img src="images/music_four.png"/>
 
-Jumping octaves is usually aa difficult task to do well, but I feel Metallica did a decent job here. They used the abruptness from the reoccuring break measure and began the second half on b exactly two octaves lower where they ended the first half (on b). These two together I feel works very well here and now we're introduced to a new melody. Whats cool about this melody is that it has the same melodic construction of low high low medium from the begining of piece and follows the same chord progression of i-VI<sup>7</sup>i-VI<sup>7</sup>. I wasn't expecting this when analyzing the score of "One" but it's interesting how the beginning of what I consider the two halves have the same chord progression even though they sound different and are at a different pace having changed to 3/4 time. They've very similar in that respect. 
+Jumping octaves is usually a difficult task to do well, but I feel Metallica did a decent job here. They used the abruptness from the reoccuring break measure and began the second half on b exactly two octaves lower where they ended the first half (on b). These two together I feel works very well here and now we're introduced to a new melody. Whats cool about this melody is that it has the same melodic construction of low high low medium from the begining of piece and follows the same chord progression of i-VI<sup>7</sup>i-VI<sup>7</sup>. I wasn't expecting this when analyzing the score of "One" but it's interesting how the beginning of what I consider the two halves have the same chord progression even though they sound different and are at a different pace having changed to 3/4 time. They've very similar in that respect. 
 
 &nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
 
-Now, 
+Lastly, we'll look at measures 34-39 which end off the introduction and lead to the first verse of the song. The first hting that sticks outt to me is the use of stacked notes in the melody - the only place where this occurs in the melody. I imagine someone playing a xylophone and going down the keys when i hear this section of the song. Its unique and what I feel plays into this is the stacked notes moving up and down stepwise. This creates a lot of stepwise motion mostly downwards and the low note of one stacked note becomes a high note almost immediately after. For example in measure 35, we have in the melody db-ec-db-ca. The stepwise motion is e-d-c and simultaneously c-b-a.
 
 &nbsp;<img src="images/music_six.png"/>
 
