@@ -13,15 +13,15 @@ The baseline for measures 9-16 is the exact same as the baseline for measures 1-
 
 <img src="images/music_two.png"/>
 
-Next, we look at the last section of what I’d consider the first half of the introduction before we have a change in the melody. The composers of Metallica (James Hetfiled and Lars Ulrich) have this interesting suspension-like drop moving from measure 20 to 21. Then they use a combination of steps and leaps of a 3rd to reach a high point then to only drop back down to b. These musical "lead-ons" keep me wanting more and for the introduction to hit a peak here which it does in measure 22. The steps and leaps break through on the third attempt and the music keeps climbing until it hits e6. 
+Next, we look at the last section of what I’d consider the first half of the introduction before we have a change in the melody. The composers of Metallica (James Hetfiled and Lars Ulrich) have this interesting suspension-like drop moving from measure 20 to 21. Then they use a combination of steps and leaps of a 3rd to reach a high point then to only drop back down to b. These musical "lead-ons" keep me wanting more and for the introduction to hit a peak here which it does in measure 22. The upward steps and leaps break through on the third attempt and the music keeps climbing until it hits e6. We end on bb which makes sense as the key is b minor and hit a melody break that is similar to measures 8 and 16 but doesn't revert to a 2/4 time signature but it signals the end of the first half of the introduction. We had baseline break melody break melody longer break in this first half.  
 
 <img src="images/music_three.png"/>
  
 <img src="images/music_four.png"/>
 
-some transition word, 
+Jumping octaves is usually aa difficult task to do well, but I feel Metallica did a decent job here. They used the abruptness from the reoccuring break measure and began the second half on b exactly two octaves lower where they ended the first half (on b). These two together I feel works very well here and now we're introduced to a new melody. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
+&nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
 
 Now, 
 
