@@ -13,10 +13,10 @@ The baseline for measures 9-16 is the exact same as the baseline for measures 1-
 
 <img src="images/music_two.png"/>
 
-Next, we look at the last section of what I’d consider the first half of the introduction before we have a change in the melody. The composers of Metallica (James Hetfiled and Lars Ulrich) have this interesting suspension-like drop moving from measure 20 to 21. Then they use a combination of steps and leaps of a 3rd to reach a high point then to only drop back down to b. These musical "lead-ons" keep me wanting more and for the introduction to hit a peak here which it does in measure 22. The steps and leaps break through on the third attempt and the music keeps climbing ntil it hits e6.
+Next, we look at the last section of what I’d consider the first half of the introduction before we have a change in the melody. The composers of Metallica (James Hetfiled and Lars Ulrich) have this interesting suspension-like drop moving from measure 20 to 21. Then they use a combination of steps and leaps of a 3rd to reach a high point then to only drop back down to b. These musical "lead-ons" keep me wanting more and for the introduction to hit a peak here which it does in measure 22. The steps and leaps break through on the third attempt and the music keeps climbing until it hits e6. 
 
 <img src="images/music_three.png"/>
-
+ 
 <img src="images/music_four.png"/>
 
 some transition word, 
