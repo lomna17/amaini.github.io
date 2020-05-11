@@ -35,4 +35,4 @@ In this block of measures, we also see a key change with the c natural and f nat
 
 &nbsp;<img src="images/music_seven_two.png"/>
 
-Altogether, while I don't feel that the musical "genius" is super in depth in "One," there's a lot to look at and analyze to find out why it sounds so good (well at least to me). 
+Although "One" isn't as composed as well as "Moonlight Sonata" from Beethoven, there's still a lot to look at and analyze to find out why it sounds so good (well at least to me). 
