@@ -21,7 +21,7 @@ Next, we look at the last section of what I’d consider the first half of the i
 
 some transition word, 
 
-&nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
+&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/music_five.png"/>
 
 Now, 
 
