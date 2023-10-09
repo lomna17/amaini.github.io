@@ -4,5 +4,5 @@
 </p>
 
 <p>
-<a href="https://github.com/evanca/quick-portfolio">Real Estate Predictions</a>
+<a href="/pdf/real-estate-price-predictions.html">Real Estate Predictions</a>
 </p>
