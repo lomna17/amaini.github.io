@@ -1,3 +1,8 @@
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px"> Machine Learning Projects
+<br> </br>
+</p>
+
+<p>
+<a href="https://github.com/evanca/quick-portfolio">Real Estate Predictions</a>
+</p>
